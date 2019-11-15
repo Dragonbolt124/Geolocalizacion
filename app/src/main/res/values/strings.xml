@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoLocalizacion</string>
+    <string name="titulo">LOCALIZACION</string>
+    <string name="subtitulo">Posicion actual</string>
+    <string name="et_lat">Latitud: </string>
+    <string name="et_lon">Longitud: </string>
+    <string name="et_pres">Presicion: </string>
+    <string name="btn_activar">Activar</string>
+    <string name="btn_desactivar">Desactivar</string>
+    <string name="proveedor">Estado proveedor</string>
+    <string name="et_prov">Provider Status: </string>
+</resources>
